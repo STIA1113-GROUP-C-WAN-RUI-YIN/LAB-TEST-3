@@ -1,0 +1,15 @@
+Please input 5 words (String).
+wan
+lee
+chong
+sim
+wan
+Original Array : 
+wan	lee	chong	sim	wan	
+Array with unique values : 
+wan	lee	chong	sim	wan	
+wan, 3
+lee, 3
+chong, 5
+sim, 3
+wan, 3
